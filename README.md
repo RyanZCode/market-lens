@@ -32,5 +32,6 @@ Our [team reflections](https://git.uwaterloo.ca/r97zhou/market-lens/-/wikis/Team
 ## User Guide
 
 ## Design Documents
+Our [UML Diagrams](https://git.uwaterloo.ca/r97zhou/market-lens/-/wikis/UML-Diagram) includes our ERD Diagram which showcases our final database schema, as well as the UML Class Diagrams.
 
 ## Grading Instructions
