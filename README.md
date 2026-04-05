@@ -17,6 +17,18 @@ Email: atecsa@uwaterloo.ca
 **Blair Wang**  
 Email: b56wang@uwaterloo.ca
 
+### Acknowledgements
+
+#### Code References
+- [Jetpack Compose for Android Developers](https://developer.android.com/courses/jetpack-compose/course)
+- [Kotlin Documentation](https://kotlinlang.org/docs/home.html)
+
+#### Third Party Libraries/APIs
+- [Finnhub API](https://finnhub.io/)
+- [Massive API](https://massive.com/)
+- [Google Gemini API](https://ai.google.dev/gemini-api/docs)
+- [Supabase](https://supabase.com/)
+
 ## Project Demo
 
 ## Project Information
