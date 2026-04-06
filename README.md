@@ -5,6 +5,8 @@
 MarketLens is an app that monitors your stock portfolio and notifies you when meaningful price movements occur, along with an AI-generated explanation of why the change happened.
 
 **TODO, INSERT SCREENSHOT OF MAIN SCREEN WITH STOCKS**
+## Project Demo
+
 **TODO, CREATE AND LINK VIDEO WALKTHROUGH**
 
 ### Team Details
@@ -22,25 +24,16 @@ Email: b56wang@uwaterloo.ca
 
 ### Acknowledgements
 
-**TODO ADD Acknowledgements**
-
-Acknowledgements should list any external sources that you used for your project. This includes but is not limited to:    A list of external source code references that you used, following our external contribution guidelines. This could be snippets from a website, or GitHub, or even source code copied from a book.
-A list of third-party libraries that you used (name/link is sufficient).
-
-
-
-
-#### Code References
+#### 1. Code References
 - [Jetpack Compose for Android Developers](https://developer.android.com/courses/jetpack-compose/course)
 - [Kotlin Documentation](https://kotlinlang.org/docs/home.html)
 
-#### Third Party Libraries/APIs
+#### 2. Third Party Libraries/APIs
 - [Finnhub API](https://finnhub.io/)
 - [Massive API](https://massive.com/)
 - [Google Gemini API](https://ai.google.dev/gemini-api/docs)
 - [Supabase](https://supabase.com/)
 
-## Project Demo
 
 ## Project Information
 
