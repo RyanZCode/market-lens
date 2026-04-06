@@ -5,9 +5,6 @@
 MarketLens is an app that monitors your stock portfolio and notifies you when meaningful price movements occur, along with an AI-generated explanation of why the change happened.
 
 **TODO, INSERT SCREENSHOT OF MAIN SCREEN WITH STOCKS**
-## Project Demo
-
-**TODO, CREATE AND LINK VIDEO WALKTHROUGH**
 
 ### Team Details
 
@@ -22,6 +19,10 @@ Email: atecsa@uwaterloo.ca
 **Blair Wang**  
 Email: b56wang@uwaterloo.ca
 
+### Project Demo
+
+**TODO, CREATE AND LINK VIDEO WALKTHROUGH**
+
 ### Acknowledgements
 
 #### 1. Code References
@@ -34,6 +35,9 @@ Email: b56wang@uwaterloo.ca
 - [Google Gemini API](https://ai.google.dev/gemini-api/docs)
 - [Supabase](https://supabase.com/)
 
+### Releases
+
+See [Release Notes](https://git.uwaterloo.ca/r97zhou/market-lens/-/wikis/Release-Notes) and [GitLab Releases](https://git.uwaterloo.ca/r97zhou/market-lens/-/releases).
 
 ## Project Information
 
@@ -45,10 +49,13 @@ Our [meeting minutes](https://git.uwaterloo.ca/r97zhou/market-lens/-/wikis/Meeti
 
 Our [team reflections](https://git.uwaterloo.ca/r97zhou/market-lens/-/wikis/Team-Reflections) can be found in our Wiki.
 
+
 ## User Guide
+
 
 ## Design Documents
 Our [UML Diagrams](https://git.uwaterloo.ca/r97zhou/market-lens/-/wikis/UML-Diagrams) includes our ERD Diagram which showcases our final database schema, as well as the UML Class Diagrams & Layered Architecture.
+
 
 ## Grading Instructions
 
