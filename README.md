@@ -39,6 +39,7 @@ Email: b56wang@uwaterloo.ca
 
 See [Release Notes](https://git.uwaterloo.ca/r97zhou/market-lens/-/wikis/Release-Notes) and [GitLab Releases](https://git.uwaterloo.ca/r97zhou/market-lens/-/releases).
 
+
 ## Project Information
 
 Our [team contract](https://git.uwaterloo.ca/r97zhou/market-lens/-/wikis/Market-Lens-Team-Contract) includes the details of all our team agreements.
@@ -52,8 +53,11 @@ Our [team reflections](https://git.uwaterloo.ca/r97zhou/market-lens/-/wikis/Team
 
 ## User Guide
 
+See [User Guide wiki page](https://git.uwaterloo.ca/r97zhou/market-lens/-/wikis/User-Guide) for more information.
+
 
 ## Design Documents
+
 Our [UML Diagrams](https://git.uwaterloo.ca/r97zhou/market-lens/-/wikis/UML-Diagrams) includes our ERD Diagram which showcases our final database schema, as well as the UML Class Diagrams & Layered Architecture.
 
 
