@@ -4,7 +4,7 @@
 
 MarketLens is an app that monitors your stock portfolio and notifies you when meaningful price movements occur, along with an AI-generated explanation of why the change happened.
 
-**TODO, INSERT SCREENSHOT OF MAIN SCREEN WITH STOCKS**
+![Screenshot of MarketLens Portfolio Page](https://git.uwaterloo.ca/-/project/112981/uploads/41b2a943f47673e803450c5bc842e271/image.png)
 
 ### Team Details
 
@@ -21,7 +21,7 @@ Email: b56wang@uwaterloo.ca
 
 ### Project Demo
 
-**TODO, CREATE AND LINK VIDEO WALKTHROUGH**
+Video Walkthrough: https://youtu.be/So7LqXK0Z_A
 
 ### Acknowledgements
 
