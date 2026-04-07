@@ -63,4 +63,10 @@ Our [UML Diagrams](https://git.uwaterloo.ca/r97zhou/market-lens/-/wikis/UML-Diag
 
 ## Grading Instructions
 
-**TODO, CREATE INSTRUCTIONS ON API KEYS AND SECRETS (.env) AND OUTLINE API RATE LIMITS**
+### API Rate Limits  
+We are using the free tier of the Finnhub, Gemini, and Massive APIs with the following rate limits:  
+**Finnhub:** 60 requests/min - 4 or 7 requests are made every time a stock detail page in the portfolio screen is opened (7 if an AI summary generated in the past 24 hours exists in the database, 4 otherwise).  
+**Gemini:** 5 requests/min, 20 requests/day - 1 request is made every time a stock detail page in the portfolio screen is opened and has not had an AI summary generated in the past 24 hours (no request is made if one exists and was generated within 24 hours).  
+**Massive:** 5 requests/min - 1 request is made every time a stock detail page in the portfolio screen is opened for the 30 day summary.
+
+Please keep these rate limits in mind when testing the application (FYI: API requests can only occur when opening a stock detail page in the portfolio screen). The bottleneck for the rate limits is the Gemini API, so make sure to keep in mind that up to 20 AI summaries can be generated daily with this tier of the API (subsequent accesses of these generated AI summaries will not make a Gemini API request though).
