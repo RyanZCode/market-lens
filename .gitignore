@@ -10,3 +10,13 @@
 local.properties
 secrets.properties
 /secrets.properties
+
+/app/release/
+*.apk
+*.aab
+*.jks
+*.keystore
+
+.env
+.env.*
+!.env.example
